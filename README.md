@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="center">I am frontend developer. My biggest aim is to improve myself.</h3>
+<h3 align="center">I am software developer. My biggest aim is to improve myself.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetkaleli&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetkaleli" /> </p>
 
