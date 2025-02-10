@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Ahmet<br>Frontend Developer<br>My biggest aim is to improve myself. 💯​I focus on improving myself by learning new technologies. In addition to HTML, CSS, and JavaScript, I work with React. I aim to create creative solutions and continuously enhance my technical skills. 💪​</h3>
+<h1 align="left">Hi 👋! My name is Ahmet<br>Frontend Developer<br>My biggest aim is to improve myself. 💯​I focus on improving myself by learning new technologies. In addition to HTML, CSS, and JavaScript, I work with React. I aim to create creative solutions and continuously enhance my technical skills. 💪​</h1>
 
 ###
 
@@ -30,11 +30,9 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetKaleli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetKaleli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetKaleli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetKaleli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="160" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ahmetKaleli&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
@@ -48,9 +46,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ahmetKaleli/ahmetKaleli/output/snake.svg" alt="Snake animation" />
 
 ###
